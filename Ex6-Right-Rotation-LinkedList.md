@@ -102,4 +102,4 @@ class prog {
 
 
 ## Result:
-Thus, the C program to perfom right rotation on linked list is implemented successfully.
+Thus, the Java program to perfom right rotation on linked list is implemented successfully.
