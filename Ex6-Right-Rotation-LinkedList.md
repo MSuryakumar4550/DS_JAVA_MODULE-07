@@ -14,7 +14,7 @@ Display the rotated linked list.
 
 ## Program:
 ```
-/*
+
 Program to  Right Rotation LinkedList
 Developed by: M.Suryakumar
 RegisterNumber: 212224040340
@@ -93,7 +93,7 @@ class prog {
     }
 }
  
-*/
+
 ```
 
 ## Output:
